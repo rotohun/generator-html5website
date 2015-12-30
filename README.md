@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-html-5 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generator for html5 website using gulp, sass, and much more
 
@@ -33,3 +34,7 @@ MIT © [Ronald Hunter](ronaldhunter.co)
 [daviddm-url]: https://david-dm.org/rotohun/generator-html-5
 [coveralls-image]: https://coveralls.io/repos/rotohun/generator-html-5/badge.svg
 [coveralls-url]: https://coveralls.io/r/rotohun/generator-html-5
+=======
+# generator-html5website
+Generator for html5 websites usings gulp. sass. and much more.
+>>>>>>> 95edad984e00b3635fdc92eeb8f711e09acbf797
