@@ -3,7 +3,7 @@ var yeoman = require('yeoman-generator');
 var chalk = require('chalk');
 var yosay = require('yosay');
 
-module.exports = yeoman.generators.Base.extend({
+var html5-generator = yeoman.generators.Base.extend({
   prompting: function () {
     var done = this.async();
 
@@ -38,3 +38,7 @@ module.exports = yeoman.generators.Base.extend({
     this.installDependencies();
   }
 });
+
+
+module.exports = html5-generator;
+
